@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background:linear-gradient(#9ad6c6 0%, #499152 100%);
+}
+img{
+    transition: transform.2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
